@@ -12,3 +12,5 @@ GitFlow is a robust framework for managing large projects. It was developed by V
 * Feature Branches
 * Release Branches
 * Hotfix Branches
+
+[Click here for more information](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
