@@ -11,3 +11,4 @@
 10. **Git Add**: *git add* creates a new connection to a remote repository. The "shortname" you provide can later be used instead of the URL when referencing the remote. A typical default shortname is "origin": this is used for the remote which your local repository was cloned from.
 11. **Git Remove**: *git remove* disconnects the remote from the local repository. Note that this will have no effect on the actual remote repository (i.e. the repository itself is not removed / deleted / etc.).
 12. **Git Rename**: *git rename* renames the remote connection.
+13. **Git Status**: *git status* displays the state of the working directory and the staging area. It lets you see which changes have been staged, which haven't, and which files aren't being tracked by Git. Status output does not show you any information regarding the committed project history.
