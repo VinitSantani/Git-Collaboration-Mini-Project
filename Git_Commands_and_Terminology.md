@@ -1,0 +1,2 @@
+# Git Terminology and Commands
+1. **Repository**: This is a storage area where your projects can live. It can store code, text, images, and anything else that your project may need. This is also sometimes shorthanded as “repo” and can be stored either in an online platform like git hub or locally to your pc.
