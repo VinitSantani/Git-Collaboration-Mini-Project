@@ -6,3 +6,4 @@
 5. **Commit**: *git commit* saves the changes to your file in git and pushes them to your main repository
 6. **Merge**: *git merge* automatically compiles your code from your new feature branch and merges it with the master branch. It will ensure that no lines of code are written over- if so it will show a merge conflict at which point you can make the necessary changes
 7. **Git Checkout**: *git checkout* lets you navigate between the branches created by git branch. Checking out a branch updates the files in the working directory to match the version stored in that branch, and it tells Git to record all new commits on that branch.
+8. **Git Push**: *git push* is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repo. It's the counterpart to git fetch , but whereas fetching imports commits to local branches, pushing exports commits to remote branches.
