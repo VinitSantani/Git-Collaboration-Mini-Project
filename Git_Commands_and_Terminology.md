@@ -12,3 +12,4 @@
 11. **Git Remove**: *git remove* disconnects the remote from the local repository. Note that this will have no effect on the actual remote repository (i.e. the repository itself is not removed / deleted / etc.).
 12. **Git Rename**: *git rename* renames the remote connection.
 13. **Git Status**: *git status* displays the state of the working directory and the staging area. It lets you see which changes have been staged, which haven't, and which files aren't being tracked by Git. Status output does not show you any information regarding the committed project history.
+14. **Git Master/Main Branch**: The default branch name in Git is master. As you start making commits, you're given a master branch that points to the last commit you made. Every time you commit, the master branch pointer moves forward automatically. This may now be referred to as the main branch instead of master due to certain social issues in our world today.
