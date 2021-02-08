@@ -4,6 +4,7 @@
 * [Git vs github](https://www.youtube.com/watch?v=DVRQoVRzMIY)
 * [Git for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
 * [Git Branching and Merging ](https://www.youtube.com/watch?v=FyAAIHHClqI)
+* [How to Resolve Merge Confllicts](https://www.youtube.com/watch?v=__cR7uPBOIk)
 
 ## Web Articles/Documentation
 * [Overview of Changelogs](https://www.freecodecamp.org/news/z-beginners-guide-to-git-what-is-a-changelog-and-how-to-generate-it/)
