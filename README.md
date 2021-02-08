@@ -5,7 +5,7 @@
     * [Git Commands and Terminology](Git_Commands_And_Terminology.md)
     * [Explaining Git Flow](Explaining_Git_Flow.md)
 
-* Changelog
+* [Changelog](Changelog.md)
 * [Resources Used](Resources_used.md)
 
 ## This repo is brought to you by:
