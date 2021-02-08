@@ -3,3 +3,4 @@
 2. **Clone**: *git clone*  is essentially downloading a local copy of a repo that is hosted somewhere else. For example, cloning a github repo to your local PC
 3. **Fork**: Forking allows you to branch off from the master branch and develop a new feature without impacting your main code.
 4. **Branch**: *git branch* is basically a duplication of code in a new parallel area. Your master branch is the default and then you can branch off from that. When you are ready to add a feature you can merge the feature branch back with the master branch
+5. **Commit**: *git commit* saves the changes to your file in git and pushes them to your main repository
